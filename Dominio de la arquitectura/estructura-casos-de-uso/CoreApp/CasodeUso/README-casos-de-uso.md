@@ -1,0 +1,1 @@
+Aqui van los casos de uso con la lógica de negocio
